@@ -1,8 +1,8 @@
 class Cliss < Formula
   desc "Animated terminal screensavers: matrix rain, fire, plasma, synthwave and more"
   homepage "https://github.com/IsuruGunarathne/CLISS"
-  url "https://github.com/IsuruGunarathne/CLISS/archive/refs/tags/v2.1.tar.gz"
-  sha256 "2d7a0aea747950affd3d23a140374362373b5ea64940518cc75d2fec84453cc2"
+  url "https://github.com/IsuruGunarathne/CLISS/archive/refs/tags/v2.2.tar.gz"
+  sha256 "1f41f9149cf3a9833347454730d7f40a80fcd7a97d0a4bc04f244a4aac954aac"
   license "MIT"
 
   uses_from_macos "python"
